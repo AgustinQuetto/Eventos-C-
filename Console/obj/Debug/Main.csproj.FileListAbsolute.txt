@@ -1,0 +1,16 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Libreria\Console\bin\Debug\Console.exe.config
+D:\Mis Documentos\Visual Studio 2012\Projects\Libreria\Console\bin\Debug\Console.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Libreria\Console\bin\Debug\Console.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Libreria\Console\bin\Debug\Libreria.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Libreria\Console\bin\Debug\Libreria.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Libreria\Console\obj\Debug\Main.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Libreria\Console\obj\Debug\Console.exe
+D:\Mis Documentos\Visual Studio 2012\Projects\Libreria\Console\obj\Debug\Console.pdb
+D:\Libreria\Console\bin\Debug\Console.exe.config
+D:\Libreria\Console\obj\Debug\Console.exe
+D:\Libreria\Console\obj\Debug\Console.pdb
+D:\Libreria\Console\bin\Debug\Console.exe
+D:\Libreria\Console\bin\Debug\Console.pdb
+D:\Libreria\Console\bin\Debug\Libreria.dll
+D:\Libreria\Console\bin\Debug\Libreria.pdb
+D:\Libreria\Console\obj\Debug\Main.csprojResolveAssemblyReference.cache

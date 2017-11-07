@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Libreria", "Libreria\Libreria.csproj", "{FE2B9F20-2CB0-4CC4-8153-855F4E1A0972}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Main", "Console\Main.csproj", "{746C1E99-95C4-4C46-BE63-5B4E2B1A496A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Formularios", "Formularios\Formularios.csproj", "{19A1BC10-C4B4-4CAD-B164-A0D5DB095634}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE2B9F20-2CB0-4CC4-8153-855F4E1A0972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE2B9F20-2CB0-4CC4-8153-855F4E1A0972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE2B9F20-2CB0-4CC4-8153-855F4E1A0972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE2B9F20-2CB0-4CC4-8153-855F4E1A0972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{746C1E99-95C4-4C46-BE63-5B4E2B1A496A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{746C1E99-95C4-4C46-BE63-5B4E2B1A496A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{746C1E99-95C4-4C46-BE63-5B4E2B1A496A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{746C1E99-95C4-4C46-BE63-5B4E2B1A496A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19A1BC10-C4B4-4CAD-B164-A0D5DB095634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19A1BC10-C4B4-4CAD-B164-A0D5DB095634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19A1BC10-C4B4-4CAD-B164-A0D5DB095634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19A1BC10-C4B4-4CAD-B164-A0D5DB095634}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

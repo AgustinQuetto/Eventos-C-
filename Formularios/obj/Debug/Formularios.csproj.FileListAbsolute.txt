@@ -1,0 +1,11 @@
+D:\Libreria\Formularios\bin\Debug\Formularios.exe.config
+D:\Libreria\Formularios\bin\Debug\Formularios.exe
+D:\Libreria\Formularios\bin\Debug\Formularios.pdb
+D:\Libreria\Formularios\bin\Debug\Libreria.dll
+D:\Libreria\Formularios\bin\Debug\Libreria.pdb
+D:\Libreria\Formularios\obj\Debug\Formularios.csprojResolveAssemblyReference.cache
+D:\Libreria\Formularios\obj\Debug\Formularios.Form1.resources
+D:\Libreria\Formularios\obj\Debug\Formularios.Properties.Resources.resources
+D:\Libreria\Formularios\obj\Debug\Formularios.csproj.GenerateResource.Cache
+D:\Libreria\Formularios\obj\Debug\Formularios.exe
+D:\Libreria\Formularios\obj\Debug\Formularios.pdb

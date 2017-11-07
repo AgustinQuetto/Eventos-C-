@@ -1,0 +1,10 @@
+D:\Mis Documentos\Visual Studio 2012\Projects\Libreria\Libreria\obj\Debug\Libreria.csprojResolveAssemblyReference.cache
+D:\Mis Documentos\Visual Studio 2012\Projects\Libreria\Libreria\bin\Debug\Libreria.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Libreria\Libreria\bin\Debug\Libreria.pdb
+D:\Mis Documentos\Visual Studio 2012\Projects\Libreria\Libreria\obj\Debug\Libreria.dll
+D:\Mis Documentos\Visual Studio 2012\Projects\Libreria\Libreria\obj\Debug\Libreria.pdb
+D:\Libreria\Libreria\bin\Debug\Libreria.dll
+D:\Libreria\Libreria\bin\Debug\Libreria.pdb
+D:\Libreria\Libreria\obj\Debug\Libreria.csprojResolveAssemblyReference.cache
+D:\Libreria\Libreria\obj\Debug\Libreria.dll
+D:\Libreria\Libreria\obj\Debug\Libreria.pdb
